@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1001,
+    "title": "Login page not loading",
+    "description": "Users report that the login page fails to load intermittently.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-02-01 T09:15:00Z"
+  },
+  {
+    "id": 1002,
+    "title": "Error 500 on checkout",
+    "description": "Checkout throws a server error when adding multiple items.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-02-02 T11:30:00Z"
+  },
+  {
+    "id": 1003,
+    "title": "Profile picture upload fails",
+    "description": "Users cannot upload profile pictures larger than 2MB.",
+    "customer": "Bob Johnson",
+    "priority": "Medium",
+    "status": "Reviewed",
+    "createdAt": "2026-02-03 T08:45:00Z"
+  },
+  {
+    "id": 1004,
+    "title": "Notification emails delayed",
+    "description": "Some users are receiving notifications hours late.",
+    "customer": "Eve Adams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-02-04 T14:20:00Z"
+  },
+  {
+    "id": 1005,
+    "title": "Password reset link expired",
+    "description": "Reset link expires immediately after generation.",
+    "customer": "Charlie Brown",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-02-05 T10:05:00Z"
+  },
+  {
+    "id": 1006,
+    "title": "Search results incorrect",
+    "description": "Search results do not match the query keywords.",
+    "customer": "Diana Prince",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-02-06 T09:50:00Z"
+  },
+  {
+    "id": 1007,
+    "title": "Mobile app crashes on launch",
+    "description": "App crashes immediately on Android devices.",
+    "customer": "Frank Miller",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-02-07 T07:30:00Z"
+  },
+  {
+    "id": 1008,
+    "title": "Incorrect billing amount",
+    "description": "Invoices show wrong totals for some customers.",
+    "customer": "Grace Lee",
+    "priority": "High",
+    "status": "Reviewed",
+    "createdAt": "2026-02-08 T13:15:00Z"
+  },
+  {
+    "id": 1009,
+    "title": "Slow page load on dashboard",
+    "description": "Dashboard takes too long to load for users with large datasets.",
+    "customer": "Henry Ford",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-02-09 T12:40:00Z"
+  },
+  {
+    "id": 1010,
+    "title": "Typo in terms and conditions",
+    "description": "Spelling error in the last paragraph of T&C.",
+    "customer": "Isabella King",
+    "priority": "Low",
+    "status": "Reviewed",
+    "createdAt": "2026-02-10 T16:55:00Z"
+  }
+]
